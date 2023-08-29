@@ -1,0 +1,21 @@
+
+
+.red {
+    background-color: pink;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+.red.big {
+    font-size: 24px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
