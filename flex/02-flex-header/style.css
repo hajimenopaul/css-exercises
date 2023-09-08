@@ -31,15 +31,15 @@ a {
 
 .header {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   padding: 10px;
 }
 
-.header .left-links {
+/*.header .left-links {
   margin-right: auto;
 }
 
 .header .right-links {
   margin-left: auto;
-}
+}*/
